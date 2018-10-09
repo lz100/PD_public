@@ -5,6 +5,12 @@ Automatically update every day.
 ******************************
 
 
+- 
+***
+
+
+2018-10-08-23:00 Mon
+
 - Genome STRiP 2.0 added to the new function of duplication calling but this program requires minimum 20-30 samples to call common CNVs, not the tumor pair we want, give up on this one.
 - Try this pipe [GATK somatic CNV Calling](https://gatkforums.broadinstitute.org/gatk/discussion/9143/how-to-call-somatic-copy-number-variants-using-gatk4-cnv). Try to test with my own scripts instead of fire cloud. The billing account is still under Lee's, can't use Firecloud until it switches to Summit. 
 - will create a virtualenv environment to use CWL(common work flow language) so it's convenient for future pipeline development.
