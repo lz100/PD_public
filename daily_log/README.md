@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-10-09-23:00 Tue
+
+- Working on the GATK CNV calling 
+- Read reports on DREAM Challenge comparison, DELLY, MANTA are good, novoBreak is another always being on the top list.
+***
+
+
 2018-10-08-23:00 Mon
 
 - Genome STRiP 2.0 added to the new function of duplication calling but this program requires minimum 20-30 samples to call common CNVs, not the tumor pair we want, give up on this one.
