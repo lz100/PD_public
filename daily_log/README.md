@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-10-10-23:00 Wed
+
+- [ ] Testing the cwl to run GATK CNV workflow
+- [x] vim now support cwl syntax
+- learning cwl.
+***
+
+
 2018-10-09-23:00 Tue
 
 - Working on the GATK CNV calling 
