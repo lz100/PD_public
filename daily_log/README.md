@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-10-11-23:00 Thu
+
+- virtualenv is not compactable with python3, tried to fix but didn't work. Trying with compile my own python3.
+- [x] virtualenv fixed at the end of the day. Now running with python3 and pip3 no problem
+- First instance of cwl workflow worked.
+***
+
+
 2018-10-10-23:00 Wed
 
 - [ ] Testing the cwl to run GATK CNV workflow
