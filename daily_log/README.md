@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-10-12-23:00 Fri
+
+- Learning CWL workflow, finished the user guide. Trying to find a good example to build complex workflow.
+***
+
+
 2018-10-11-23:00 Thu
 
 - virtualenv is not compactable with python3, tried to fix but didn't work. Trying with compile my own python3.
