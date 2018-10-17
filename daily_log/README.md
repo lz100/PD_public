@@ -9,9 +9,16 @@ Automatically update every day.
 ***
 
 
+2018-10-16-23:00 Tue
+
+- Worked on supplement ppt: SNV and SV
+- Tried to calculate allele frequency for SVs
+***
+
+
 2018-10-15-23:00 Mon
 
-- 
+- Visited TSRI and reported 
 ***
 
 
