@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-10-17-23:00 Wed
+- try to plot validated SVs
+- Continue to work on SV, CNV slides
+- [x] SV validation on arrays done
+- [ ] Annotation of SV
+***
+
+
 2018-10-16-23:00 Tue
 
 - Worked on supplement ppt: SNV and SV
