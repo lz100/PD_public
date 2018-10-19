@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-10-18-23:00 Thu
+
+- Worked on slides to represent SV array validation
+- Zoom meeting report
+- Wokred on auto-email system
+***
+
+
 2018-10-17-23:00 Wed
 - try to plot validated SVs
 - Continue to work on SV, CNV slides
