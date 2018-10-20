@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-10-19-23:00 Fri
+
+- [x] Roy said he would like to have me sending my log or a remainder so he can remember to check. After a few days of development, and tests, the system should be working. Weekly log pdf will be sent automatically.
+
+***
+
+
 2018-10-18-23:00 Thu
 
 - Worked on slides to represent SV array validation
