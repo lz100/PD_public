@@ -9,15 +9,23 @@ Automatically update every day.
 ***
 
 
+2018-10-26-23:00 Fri
+
+- A problem with crontab not taking my R libraries, and prevented email sending. It's the Rscript environment bug, fixed 
+***
+
+
 2018-10-25-23:00 Thu
 
-- 
+- First CNV sample worked, will try more real samples tomorrow.
+- Configured cluster, wrote a script to find out max RAM and CPU used to better arrange jobs later.
 ***
 
 
 2018-10-24-23:00 Wed
 
-- 
+- Writing scripts for CNV. Test data panel worked, can apply to real samples.
+- New server worked out, should have fixed the problem.
 ***
 
 
