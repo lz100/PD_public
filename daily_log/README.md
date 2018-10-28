@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-10-27-23:00 Sat
+
+- 
+***
+
+
 2018-10-26-23:00 Fri
 
 - A problem with crontab not taking my R libraries, and prevented email sending. It's the Rscript environment bug, fixed 
