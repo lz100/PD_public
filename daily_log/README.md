@@ -9,15 +9,25 @@ Automatically update every day.
 ***
 
 
+2018-10-30-23:00 Tue
+
+- Annotating SVs
+- refine CNV calls
+***
+
+
 2018-10-29-23:00 Mon
 
-- 
+- Lab seminar report.
+- Spent some time with cluster admin and learned some important knowledge.
+- Post on Broad GATK try to ask some technical issues.  
+- [x] CNV validation for all types are done
 ***
 
 
 2018-10-28-23:00 Sun
 
-- 
+- Raw CNV calls for all samples are generated. 
 ***
 
 
