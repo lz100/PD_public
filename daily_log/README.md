@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-10-31-23:00 Wed
+
+- Broad replied my issues: allosome chromosomes need to be called separately and create PoN separately on different genders. Need to rerun everything of CNVs
+- Add a interval file this time to remove unnecessary regions.
+- Annotating SVs
+***
+
+
 2018-10-30-23:00 Tue
 
 - Annotating SVs
