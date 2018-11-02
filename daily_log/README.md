@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-11-01-23:00 Thu
+
+- 
+***
+
+
 2018-10-31-23:00 Wed
 
 - Broad replied my issues: allosome chromosomes need to be called separately and create PoN separately on different genders. Need to rerun everything of CNVs
