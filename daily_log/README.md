@@ -9,9 +9,18 @@ Automatically update every day.
 ***
 
 
+2018-11-02-23:00 Fri
+
+- Out of lab today for a supercomputer workshop.
+- A bug happened with the email sending scripts that sent 3 emails, fixed. SORRY
+***
+
+
 2018-11-01-23:00 Thu
 
-- 
+- Project update report.
+- Trying to fix an issue that caused CNV allele count step to be super slow
+- Initial annotation for SVs are done.
 ***
 
 
