@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-11-03-23:00 Sat
+
+- 
+***
+
+
 2018-11-02-23:00 Fri
 
 - Out of lab today for a supercomputer workshop.
