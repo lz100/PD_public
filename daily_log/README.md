@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-11-05-23:00 Mon
+
+- Project planning with Roy.
+- Work on GATK work flow in CWL this week. Not too much of PD project will be done this week.
+***
+
+
 2018-11-04-23:00 Sun
 
 - 
