@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-11-06-23:00 Tue
+
+- Working on GATK CWL pipeline 
+***
+
+
 2018-11-05-23:00 Mon
 
 - Project planning with Roy.
