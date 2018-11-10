@@ -9,15 +9,21 @@ Automatically update every day.
 ***
 
 
+2018-11-09-23:00 Fri
+
+- work on cwl. Trying to add more scripts to each step. Most steps scripts should be finished by today.
+***
+
+
 2018-11-08-23:00 Thu
 
-- 
+- still work on cwl, template has been created, just need to add more scripts for each step
 ***
 
 
 2018-11-07-23:00 Wed
 
-- 
+- Work on CWL pipeline 
 ***
 
 
