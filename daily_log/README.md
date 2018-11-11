@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-11-10-23:00 Sat
+
+- 
+***
+
+
 2018-11-09-23:00 Fri
 
 - work on cwl. Trying to add more scripts to each step. Most steps scripts should be finished by today.
