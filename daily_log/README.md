@@ -5,31 +5,33 @@ Automatically update every day.
 ******************************
 
 
-- 
+- Go back to work on the CNV calling in the afternoon time. 
+- PoN recreated by different genders.
+- calling segmented CNVs not just in dots this time.
 ***
 
 
 2018-11-15-23:00 Thu
 
-- 
+- CWL workflow is amlost done. The workflow diagram is in my google drive folder.
 ***
 
 
 2018-11-14-23:00 Wed
 
-- 
+- Work on CWL and need to learn some javascript. CWL is highly depending on js and makes it uneasy to interact.
 ***
 
 
 2018-11-13-23:00 Tue
 
-- 
+- Visited San Diego
 ***
 
 
 2018-11-12-23:00 Mon
 
-- 
+- Holiday 
 ***
 
 
