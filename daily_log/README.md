@@ -5,6 +5,12 @@ Automatically update every day.
 ******************************
 
 
+- 
+***
+
+
+2018-11-16-23:00 Fri
+
 - Go back to work on the CNV calling in the afternoon time. 
 - PoN recreated by different genders.
 - calling segmented CNVs not just in dots this time.
