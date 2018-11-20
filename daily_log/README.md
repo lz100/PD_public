@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-11-19-23:00 Mon
+
+- Bugs happened to CWL workflow. Fixing bugs and generate workflow for human and non-human.
+- Didn't get time to work on my CNV, need to catch up tomorrow.
+***
+
+
 2018-11-18-23:00 Sun
 
 - 
