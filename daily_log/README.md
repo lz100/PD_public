@@ -9,9 +9,18 @@ Automatically update every day.
 ***
 
 
+2018-11-21-23:00 Wed
+
+- Finally finished all CWL workflow building.
+- CNV calls are behind, need to catch up quickly.
+- This week is short. Hope I can do more if there is time later this week.
+- Will start PD QC workflow writing next Monday.
+***
+
+
 2018-11-20-23:00 Tue
 
-- 
+- still fixing bugs from CWL. They built the workframe stupidly which makes it very hard to work on. 
 ***
 
 
