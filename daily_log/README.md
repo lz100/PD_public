@@ -9,9 +9,16 @@ Automatically update every day.
 ***
 
 
+2018-11-27-23:00 Tue
+
+- Start to write scripts for the whole PD QC pipeline.
+- Plan to try with docker container and can transfer to singularity later.
+***
+
+
 2018-11-26-23:02 Mon
 
-- 
+- System maintenance, unable to work on cluster.
 ***
 
 
@@ -29,13 +36,13 @@ Automatically update every day.
 
 2018-11-23-23:00 Fri
 
-- 
+- Break
 ***
 
 
 2018-11-22-23:00 Thu
 
-- 
+- Break 
 ***
 
 
