@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-11-28-23:00 Wed
+
+- Trying to finish all CNV calls. This time should give me segment calls not just dot calls.
+- Install dual monitor solution for my work station. Now works on dual monitors with only one USB3 port. 
+***
+
+
 2018-11-27-23:00 Tue
 
 - Start to write scripts for the whole PD QC pipeline.
