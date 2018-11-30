@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-11-29-23:00 Thu
+
+- Still trying to finish CNV calls but male samples with female PoN give wrong number? I guess. Asked GATK people but haven't heard back for more than 2 days.
+- Anyway, will proceed to the final step.
+***
+
+
 2018-11-28-23:00 Wed
 
 - Trying to finish all CNV calls. This time should give me segment calls not just dot calls.
