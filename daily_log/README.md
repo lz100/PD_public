@@ -9,6 +9,14 @@ Automatically update every day.
 ***
 
 
+2018-12-03-23:00 Mon
+
+- Regular lab meeting
+- Went to clinic for health issues.
+- Working on the last piece of CNV calls.
+***
+
+
 2018-12-02-23:00 Sun
 
 - 
@@ -23,7 +31,8 @@ Automatically update every day.
 
 2018-11-30-23:00 Fri
 
-- 
+- Zoom conference meeting.
+- Went to a series of talks of genomics in the afternoon.
 ***
 
 
