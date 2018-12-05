@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-12-04-23:00 Tue
+
+- Sketching the workflow outline design.
+- Learning some python.
+***
+
+
 2018-12-03-23:00 Mon
 
 - Regular lab meeting
