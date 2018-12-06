@@ -9,6 +9,13 @@ Automatically update every day.
 ***
 
 
+2018-12-05-23:00 Wed
+
+- Solved the sex chromosome calling problem. Segment calls are done, waiting for plotting tomorrow.
+- Start to write R scripts for cell line identification and report generation
+***
+
+
 2018-12-04-23:00 Tue
 
 - Sketching the workflow outline design.
