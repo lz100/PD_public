@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-12-06-23:00 Thu
+
+- 
+***
+
+
 2018-12-05-23:00 Wed
 
 - Solved the sex chromosome calling problem. Segment calls are done, waiting for plotting tomorrow.
