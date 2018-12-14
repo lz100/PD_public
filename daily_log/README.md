@@ -9,21 +9,29 @@ Automatically update every day.
 ***
 
 
+2018-12-13-23:00 Thu
+
+- Learning python. Write the first instance of bwa. Working, but not perfect, may need Lee to help improve later.
+- Want to write a program to track CPU, mem use for every a few seconds so I can profile and plot program performance.
+- Current packages in bash or python only checks for overall time, CPU, mem, not customizable with my need. 
+***
+
+
 2018-12-12-23:00 Wed
 
-- 
+- Reading Lee's scripts and try to rewrite.
 ***
 
 
 2018-12-11-23:00 Tue
 
-- 
+- Learning python
 ***
 
 
 2018-12-10-23:00 Mon
 
-- 
+- Visiting Scripps
 ***
 
 
@@ -41,13 +49,14 @@ Automatically update every day.
 
 2018-12-07-23:00 Fri
 
-- 
+- CNVs all done. Plots generated.
+- Not the ideal results, but works well on our current needs.
 ***
 
 
 2018-12-06-23:00 Thu
 
-- 
+- Didn't get much done today. 
 ***
 
 
