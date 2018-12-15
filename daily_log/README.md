@@ -9,6 +9,12 @@ Automatically update every day.
 ***
 
 
+2018-12-14-23:00 Fri
+
+- 
+***
+
+
 2018-12-13-23:00 Thu
 
 - Learning python. Write the first instance of bwa. Working, but not perfect, may need Lee to help improve later.
