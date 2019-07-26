@@ -9,9 +9,23 @@ Automatically update every day.
 ***
 
 
+2019-07-25-23:00 Thu
+
+- Downloaded GDC brain tumor DNA change files.
+    - It turns out only about 20,000/129,332 mutations have occurrence over 1. We shouldn't count for these. Other also low occurrence ones (2<x<10) may need further
+    filters.
+- Fix ID check script. The script only takes alternative alleles, reference, low reads are as N. Change the correct genotype if reference. 
+- CNVs in chr20 not detected in D0,D13,D18 but D25. Allele frequency increase observed. Log2 detection cutoff at 0.9 for del and 1.1 for dul.
+    - CNV ratio stablized between D18-D25.
+    - D0 samples genome very unstable compare to D25.
+***
+
+
 2018-12-17-23:00 Mon
 
-- 
+- Lab talk.
+- Out of lab in the afternoon for student admin things required by school.
+- Log, email system will be paused for the holidays. 
 ***
 
 
@@ -29,7 +43,8 @@ Automatically update every day.
 
 2018-12-14-23:00 Fri
 
-- 
+- Learning python.
+- writing the workflow.
 ***
 
 
